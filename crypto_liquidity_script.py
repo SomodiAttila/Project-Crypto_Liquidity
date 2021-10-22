@@ -1,8 +1,6 @@
 
 
-# Description: A program to scrape crpyto data and create visualizations from it.
-# Created: 2021-10-20
-# Updated:
+# Description: A script to scrape crpyto data and create visualizations for liquidity analysis.
 
 
 
